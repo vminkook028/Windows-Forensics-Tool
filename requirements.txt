@@ -1,0 +1,4 @@
+psutil>=5.9.8
+requests>=2.31.0
+reportlab>=4.0.8
+yara-python>=4.5.1
